@@ -21,10 +21,10 @@ cd github-user
 npm start
 ```
 
-## Deployment Link
+<!-- ## Deployment Link
 ```url
    https://banggood-site-clone.netlify.app/
-```
+``` -->
 
 ## Tech Stack
 - React
