@@ -34,7 +34,7 @@ npm start
 
 ## Features
 - Search for repositories
-- Sorting according to the date last updated
+- Sort according to the date last updated
 - Per page limit control
 - Pagination
 
