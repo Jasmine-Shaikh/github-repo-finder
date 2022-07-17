@@ -4,7 +4,7 @@
 
 A replica of GitHub search engine using <a href="https://docs.github.com/en/rest/search#search-repositories" target="_blank">GitHub Search API</a>
 
-<img src="github-user\src\Images\basic.PNG"/>
+<img src="https://github.com/Jasmine-Shaikh/github-repo-finder/blob/master/src/Images/basic.PNG"/>
 
 ## Installation
 
