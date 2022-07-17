@@ -2,7 +2,7 @@
 
 ## Description
 
-A replica of GitHub search engine using <a href="https://docs.github.com/en/rest/search#search-repositories" target="_blank">GitHub Search API</a>
+A replica of GitHub search engine using <a href="https://docs.github.com/en/rest/search#search-repositories" target="_blank">GitHub Search API</a> which allows you to search for repositories.
 
 <img src="https://github.com/Jasmine-Shaikh/github-repo-finder/blob/master/src/Images/basic.PNG"/>
 
