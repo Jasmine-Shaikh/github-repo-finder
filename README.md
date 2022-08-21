@@ -20,10 +20,10 @@ npm install
 npm start
 ```
 
-<!-- ## Deployment Link
+## Deployment Link
 ```url
-   https://banggood-site-clone.netlify.app/
-``` -->
+   https://github-repo-finder-roan.vercel.app/
+```
 
 ## Tech Stack
 - React
