@@ -22,7 +22,7 @@ npm start
 
 ## Deployment Link
 ```url
-   https://github-repo-finder-roan.vercel.app/
+https://github-repo-finder-roan.vercel.app/
 ```
 
 ## Tech Stack
